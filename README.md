@@ -7,6 +7,7 @@ My config dotfiles
 - homebrew/linuxbrew (unix)
 - lua language server + luajit
 - scoop (windows)
+- oh-my-posh (pwsh prompt)
 - fish, fisher, tide (unix)
 - Any nerd font (using CaskaydiaCove NF Mono)
 - treesitter
