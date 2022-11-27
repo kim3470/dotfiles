@@ -12,3 +12,7 @@ My config dotfiles
 - Any nerd font (using CaskaydiaCove NF Mono)
 - treesitter
 - might be more idk just see what breaks and what doesnt
+
+# Commands to run in neovim
+:PackerSync
+:TSInstall (restart nvim)
