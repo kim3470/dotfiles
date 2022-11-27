@@ -16,6 +16,7 @@ Set-PSFzfOption -PSReadlineChordProvider 'Ctrl+f' -PSReadlineChordReverseHistory
 
 # Aliases
 Set-Alias g git
+Set-Alias lla ls
 Set-Alias touch New-Item
 Set-Alias vim nvim
 Set-Alias grep findstr
