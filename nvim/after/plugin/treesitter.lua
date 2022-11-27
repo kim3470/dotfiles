@@ -24,6 +24,7 @@ treesitter.setup({
     "lua",
     "vim",
     "gitignore",
+    "fish"
   },
   -- auto install above language parsers
   auto_install = true,
