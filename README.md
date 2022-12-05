@@ -34,4 +34,7 @@ My completely config dotfiles based on craftzdog and josean-martinez
 
 :PackerSync
 :TSInstall (ensure treesitter installations -- may not be necessary but just do it anyway and restart nvim)
-:Mason (check installations are all correct)
+:Mason (check installations are all correct below)
+
+![image](https://user-images.githubusercontent.com/70349283/205473978-1d351030-4e00-418c-9f31-a939cdc4a521.png)
+
