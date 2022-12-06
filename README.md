@@ -7,6 +7,7 @@ My completely config dotfiles based on craftzdog and josean-martinez
 ## Universal
 
 - neovim
+- tree-sitter
 - packer
 - lua language server + luajit
 - Any nerd font (using "CaskaydiaCove NF Mono")
@@ -15,7 +16,6 @@ My completely config dotfiles based on craftzdog and josean-martinez
 
 - scoop
 - oh-my-posh
-- treesitter
 
 ## Unix
 
