@@ -1,6 +1,6 @@
 # dotfiles
 
-My completely config dotfiles based on craftzdog and josean-martinez
+My complete config dotfiles based on craftzdog and josean-martinez
 
 # Installations that might be required
 
