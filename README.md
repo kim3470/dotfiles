@@ -1,40 +1,26 @@
 # dotfiles
 
-My complete config dotfiles based on craftzdog and josean-martinez
+personal dotfile record
 
-# Installations that might be required
+# Installations
 
-## Universal
+- Universal: neovim, tree-sitter, packer, lua language server + luajit, Cascadia NF
 
-- neovim
-- tree-sitter
-- packer
-- lua language server + luajit
-- Any nerd font (using "CaskaydiaCove NF Mono")
+- Windows: scoop, ohmyposh
 
-## Windows
+- Unix: homebrew, fish, fisher, tide
 
-- scoop
-- oh-my-posh
-
-## Unix
-
-- homebrew/linuxbrew (unix)
-- fish, fisher, tide (unix)
-
-- might be more idk just see what breaks and what doesnt
-
-# Initializing:
+# eslint steps
 
 - Create a new test project with npm init or create-react-app
 - Install eslint_d and prettier with npm/yarn
 - configure eslint with eslint configure and create .prettierrc in order for mason null-ls linting and formatting to work
 
-# Commands to run in neovim
+# nvim steps
 
 :PackerSync
-:TSInstall (ensure treesitter installations -- may not be necessary but just do it anyway and restart nvim)
-:Mason (check installations are all correct below)
+:TSInstall
+:Mason
 
 ![image](https://user-images.githubusercontent.com/70349283/205473978-1d351030-4e00-418c-9f31-a939cdc4a521.png)
 
